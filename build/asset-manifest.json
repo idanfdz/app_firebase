@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/app-firebase/static/css/main.a7c109ef.chunk.css",
+    "main.js": "/app-firebase/static/js/main.5a3e64fb.chunk.js",
+    "main.js.map": "/app-firebase/static/js/main.5a3e64fb.chunk.js.map",
+    "runtime-main.js": "/app-firebase/static/js/runtime-main.6877cce6.js",
+    "runtime-main.js.map": "/app-firebase/static/js/runtime-main.6877cce6.js.map",
+    "static/js/2.00f4e82e.chunk.js": "/app-firebase/static/js/2.00f4e82e.chunk.js",
+    "static/js/2.00f4e82e.chunk.js.map": "/app-firebase/static/js/2.00f4e82e.chunk.js.map",
+    "index.html": "/app-firebase/index.html",
+    "static/css/main.a7c109ef.chunk.css.map": "/app-firebase/static/css/main.a7c109ef.chunk.css.map",
+    "static/js/2.00f4e82e.chunk.js.LICENSE.txt": "/app-firebase/static/js/2.00f4e82e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6877cce6.js",
+    "static/js/2.00f4e82e.chunk.js",
+    "static/css/main.a7c109ef.chunk.css",
+    "static/js/main.5a3e64fb.chunk.js"
+  ]
+}
